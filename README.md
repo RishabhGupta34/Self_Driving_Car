@@ -3,4 +3,6 @@ Machine learning model for building Self Driving Cars using Behavioral Cloning. 
 
 # Testing the Model
 python run.py --path="path-to-model-file"
+
+
 For eg: python run.py --path=modelv6_0.1730.h5
