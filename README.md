@@ -16,3 +16,6 @@ The dataset is generated using udacity self driving car simulator. It gives info
 
 3. The angle is increased by 0.2 degree if the image chosen is left and decreased by 0.2 degree if the image chosen is right.
 
+# Demo
+
+<a href="https://imgflip.com/gif/2fbdi0"><img src="https://i.imgflip.com/2fbdi0.gif" title="made at imgflip.com"/></a>
